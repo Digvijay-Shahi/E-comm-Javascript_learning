@@ -28,11 +28,7 @@ ecommerce-cart/
 │-- style.css # Styling (optional)
 │-- script.js # JavaScript logic
 
-yaml
-Copy
-Edit
 
----
 
 ## 📖 How It Works
 1. Products are defined in a JavaScript array with `id`, `name`, and `price`.  
